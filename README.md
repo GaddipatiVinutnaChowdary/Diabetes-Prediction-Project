@@ -83,3 +83,15 @@ The **Random Forest model achieved the highest accuracy (97.00%)**, making it th
 ## Conclusion
 
 This project demonstrates how **Machine Learning can be applied in healthcare** to predict diabetes using medical attributes. Through data analysis, visualization, and predictive modeling, the system helps in understanding patterns related to diabetes and supports early prediction.
+
+
+## Project Results
+
+### Accuracy Graph
+![Accuracy](accuracy.png)
+
+### Heatmap
+![Heatmap](heatmap.png)
+
+### Confusion Matrix
+![Confusion Matrix](matrix.png)
