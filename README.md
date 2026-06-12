@@ -95,4 +95,3 @@ This project demonstrates how **Machine Learning can be applied in healthcare** 
 ### Confusion Matrix
 ![Confusion Matrix](matrix.png)
 
-
