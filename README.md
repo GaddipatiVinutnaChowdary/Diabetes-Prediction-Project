@@ -93,5 +93,5 @@ This project demonstrates how **Machine Learning can be applied in healthcare** 
 ![Heatmap](heatmap.png)
 
 ### Confusion Matrix
-![Confusion Matrix](matrix.png)
+![Confusion Matrix](./matrix.png)
 
